@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on jumping into the world of Data Science
+- 🌱 I’m currently learning SQL, Tableau, and Python
+- :eyes: I have complete projects as well as WIP ones showcasing learned skills. Take a look around!
+
 <!--
 **kxp2770/kxp2770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
